@@ -1,3 +1,5 @@
-# https://steven-do.vercel.app/
+<h1>https://steven-do.vercel.app/</h1>
 
-![goingmerry](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW42cXcxeTJiNzNtanNrd2Y3YnljM29wZDd6aWlpZHI1Mm91Y2lpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vIsKbCJgSRojGuUAY/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW42cXcxeTJiNzNtanNrd2Y3YnljM29wZDd6aWlpZHI1Mm91Y2lpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vIsKbCJgSRojGuUAY/giphy.gif" width="300">
+</p>
