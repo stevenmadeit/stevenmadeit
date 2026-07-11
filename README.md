@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://your-link.com](https://steven-do.vercel.app/">personal portfolio</a>
+  <a href="https://steven-do.vercel.app/">personal portfolio</a>
 </h1>
 
 <p align="center">
